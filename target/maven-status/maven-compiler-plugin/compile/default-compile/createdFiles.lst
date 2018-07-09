@@ -1,0 +1,8 @@
+Servlets\Cadastrar.class
+Servlets\Excluir.class
+Servlets\Alterar.class
+Servlets\Index.class
+Servlets\Exibir.class
+Biblioteca\BancoFake.class
+com\mycompany\desafio\Modelos\Livro.class
+com\mycompany\desafio\Modelos\Usuarios.class
